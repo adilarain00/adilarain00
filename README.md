@@ -1,5 +1,3 @@
-![Front End Web Developer](https://github.com/adilarain00/adilarain00/blob/main/backgroundBannerImage.avif)
-
 # Adil Amjad.
 #### Front End Web Developer.
 

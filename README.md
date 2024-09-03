@@ -4,7 +4,7 @@
 I'm Adil Amjad front-end web developer from Lahore, Pakistan. I am passionate for user-friendly and responsive user interfaces. I specialize in using modern web technologies to create dynamic, engaging websites that deliver a seamless user experience. Let's bring your vision to life on the web!
 
 ## Skills and Experience.
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) <br>
+<span style="padding: 20px;">[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) </span>
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)

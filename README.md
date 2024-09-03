@@ -1,6 +1,7 @@
 # Hi! My name is Adil Amjad 😄
 
 🌍  I am a Front-End Developer based in Lahore, Pakistan.
+
 <br/>
 
 ## Skills and Experience.

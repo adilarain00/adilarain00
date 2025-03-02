@@ -1,6 +1,6 @@
 # Hi! My name is Adil Amjad 😄
 
-🌍  I am a Front-End Developer based in Lahore, Pakistan.
+🌍  I am a MERN stack Developer based in Lahore, Pakistan.
 
 <br/>
 

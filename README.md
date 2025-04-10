@@ -1,6 +1,5 @@
 # Hi! My name is Adil Amjad 😄
 
-<br/>
 <h3 align="center">Passionate Software Engineer specializing in MERN stack. Currently diving deeper into system design and algorithms. Solved 50+ problems on LeetCode and counting!
 </h3>
 

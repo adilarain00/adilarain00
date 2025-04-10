@@ -2,8 +2,7 @@
 
 🌍  I am a MERN stack Developer based in Lahore, Pakistan.
 
-<h3>Passionate Software Engineer specializing in MERN stack. Currently diving deeper into system design and algorithms. Solved 50+ problems on LeetCode and counting!
-</h3>
+<h3>Software Engineer | Full Stack Developer | MERN | LeetCode 50+ | Student at University of Education, Lahore. </h3>
 
 
 ### Skills and Experience.

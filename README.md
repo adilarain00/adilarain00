@@ -1,4 +1,4 @@
-# Hi! My name is Adil Amjad 😄 | 🌍  I am a MERN stack Developer based in Lahore, Pakistan.
+# Hi! My name is Adil Amjad 😄
 
 <br/>
 <h3 align="center">A passionate Software Engineer. I love exploring new technologies and building innovative solutions. My areas of interest include Web Development. I enjoy collaborating with fellow developers and contributing to open-source projects. When I'm not coding, you can find me solving puzzles. Let's connect and create something awesome together!

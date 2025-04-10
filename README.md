@@ -3,7 +3,7 @@
 🌍  I am a MERN stack Developer based in Lahore, Pakistan.
 
 <h3>🖥 Software Engineer | Full Stack Developer | MERN | LeetCode 50+ | C++ </h3>
-
+<br />
 
 ### Skills and Experience.
 

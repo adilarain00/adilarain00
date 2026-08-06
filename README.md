@@ -40,22 +40,22 @@ Hi, I'm Adil, a Full-Stack Software Engineer and BSCS student (UE'26) based in L
 
 ## 📊 GitHub Stats & Streak
 
-[![Followers](https://img.shields.io/github/followers/adilarain00?style=for-the-badge&color=blue&logo=github)](https://github.com/adilarain00)
-[![Profile Views](https://komarev.com/ghpvc/?username=adilarain00&style=for-the-badge&color=blue&label=Profile%20Views)](https://github.com/adilarain00)
+[![Followers](https://img.shields.io/github/followers/adilamjad00?style=for-the-badge&color=blue&logo=github)](https://github.com/adilamjad00)
+[![Profile Views](https://komarev.com/ghpvc/?username=adilamjad00&style=for-the-badge&color=blue&label=Profile%20Views)](https://github.com/adilamjad00)
 [![Languages](https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript%20%7C%20React.js%20%7C%20Node.js-green?style=for-the-badge&logo=javascript)](#)
 
 | <img src="https://github-readme-stats.vercel.app/api?username=adilarain00&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true&title_color=B0B3B8&icon_color=27AA36&text_color=E0E0E0&bg_color=0d1117" alt="Adil Amjad GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilarain00&theme=dark&hide_border=true&background=0d1117&stroke=E0E0E0&ring=27AA36&fire=27AA36&currStreakNum=FFD700&currStreakLabel=B0B3B8&sideNums=E0E0E0&sideLabels=B0B3B8" alt="Adil Amjad GitHub Streak" /> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
-[![Adil's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adilarain00&bg_color=0d1117&color=B0B3B8&line=E0E0E0&point=27AA36&area=true&hide_border=true)](https://github.com/adilarain00)
+[![Adil's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adilamjad00&bg_color=0d1117&color=B0B3B8&line=E0E0E0&point=27AA36&area=true&hide_border=true)](https://github.com/adilamjad00)
 
 ## 🌐 Connect With Me
 
 I'm open to collaborations, open-source contributions, and opportunities to build impactful, real-world projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilamjad00/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adilarain00)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adilamjad00)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:addilarain00@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aadil-amjad.me/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/adilarain00/)

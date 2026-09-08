@@ -18,9 +18,9 @@ I am a Full-Stack Software Engineer based in Lahore, Pakistan. I build scalable,
 
 | Project | Description | Demo |
 |--------|------------|------|
-| **The Care Nexus** | Healthcare platform with AI-powered, voice-enabled to digitize and centralize workflows | [Case-Study](https://the-smart-cart.vercel.app/) |
-| **The Smart Cart** | Multivendor E-Commerce platform with checkout, product flows, and dashboard tooling. | [Case-Study](https://the-smart-cart.vercel.app/) |
-| **The LearnX** | Full-stack LMS with secure payments, video streaming, analytics, and course management. | [Case-Study](https://the-learnx.vercel.app/) |
+| **The Care Nexus** | Healthcare platform with AI-powered, voice-enabled to digitize and centralize workflows | [Case-Study](https://www.aadil-amjad.me/projects/the-care-nexus) |
+| **The Smart Cart** | Multivendor E-Commerce platform with checkout, product flows, and dashboard tooling. | [Case-Study](https://www.aadil-amjad.me/projects/the-smart-cart) |
+| **The LearnX** | Full-stack LMS with secure payments, video streaming, analytics, and course management. | [Case-Study](https://www.aadil-amjad.me/projects/the-learnx) |
 
 ## Now
 
